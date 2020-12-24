@@ -26,7 +26,7 @@
         "isRoundedButtons": true,
         "isGhostButtonBorder": false,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": []
@@ -115,7 +115,8 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#e43f3f"
+              "color": "#e43f3f",
+              "text-align": "left"
             }
           },
           "_name": "header2",
