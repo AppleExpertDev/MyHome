@@ -770,6 +770,23 @@ a {
   color: #ffffff;
   text-align: center;
 }
+.cid-skm9TNdGz1 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-skm9TNdGz1 .video-wrapper iframe {
+  width: 100%;
+}
+.cid-skm9TNdGz1 .mbr-section-title,
+.cid-skm9TNdGz1 .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-skm9TNdGz1 .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sk32J2piNi {
   padding-top: 45px;
   padding-bottom: 45px;
